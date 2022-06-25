@@ -189,7 +189,7 @@ header .navbar ul li a:hover{
 .home h1  span::after{
     content: "";
     left:0;
-    height: 55%;
+    height: 62%;
     width: 100%;
     position: absolute;
     background: black;
